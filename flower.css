@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Amaranth', cursive !important;
-  background: #FDE3A7; /*CAPE HONEY*/
+  background: #F6EFE8 ; /*CAPE HONEY*/
   margin: 0px;
   padding: 0px;
 }
@@ -18,8 +18,8 @@ h4 {
   font-family: 'Berkshire Swash', cursive !important;
 }
 
-.color1{color:#1BBC9B}/*MOUNTAIN MEADOW*/
-.color2{color:#C0392B/*TALL POPPY*/}
+.color1{color:#EEAB54}/*MOUNTAIN MEADOW*/
+.color2{color:#5B3A27/*TALL POPPY*/}
 
 
 .card {
