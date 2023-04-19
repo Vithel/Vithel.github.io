@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 
 body {
-  font-family: 'Amaranth', cursive !important;
+
   background: #F6EFE8 ; /*CAPE HONEY*/
   margin: 0px;
   padding: 0px;
@@ -12,7 +12,11 @@ body {
   background: transparent;
 }
 
-
+h6 {
+  font-size: 26px;
+  line-height: 1px;
+  font-family: 'Amaranth', cursive !important;
+}
 
 
 
@@ -26,6 +30,7 @@ h4 {
 
 .color1{color:#EEAB54}/*MOUNTAIN MEADOW*/
 .color2{color:#5B3A27/*TALL POPPY*/}
+.color3{color:#013243/*SHERPA BLUE*/}
 
 
 .card {
@@ -89,8 +94,8 @@ h4 {
 }
 
 .card .imgBox img {
-  min-width: 250px;
-  max-height: 400px;
+  min-width: 1080px;
+  max-height: 1080px;
 }
 
 .card:hover .imgBox {
