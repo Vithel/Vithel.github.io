@@ -12,9 +12,9 @@ body {
   background: transparent;
 }
 
-h6 {
-  font-size: 26px;
-  line-height: 1px;
+h4 {
+  font-size: 15px;
+  line-height: 5px;
   font-family: 'Amaranth', cursive !important;
 }
 
@@ -22,7 +22,7 @@ h6 {
 
 
 
-h4 {
+h3 {
   font-size: 26px;
   line-height: 1px;
   font-family: 'Berkshire Swash', cursive !important;
