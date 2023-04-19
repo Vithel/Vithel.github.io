@@ -94,8 +94,8 @@ h3 {
 }
 
 .card .imgBox img {
-  min-width: 500px;
-  max-height: 500px;
+  min-width: 250px;
+  max-height: 400px;
 }
 
 .card:hover .imgBox {
