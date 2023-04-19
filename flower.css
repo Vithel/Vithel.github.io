@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=Amaranth');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 
 body {
-  font-family: 'Indie Flower', cursive !important;
+  font-family: 'Amaranth', cursive !important;
   background: #FDE3A7; /*CAPE HONEY*/
   margin: 0px;
   padding: 0px;
@@ -15,7 +15,7 @@ body {
 h4 {
   font-size: 26px;
   line-height: 1px;
-  font-family: 'Amatic SC', cursive !important;
+  font-family: 'Berkshire Swash', cursive !important;
 }
 
 .color1{color:#1BBC9B}/*MOUNTAIN MEADOW*/
